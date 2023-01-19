@@ -1,10 +1,10 @@
 # hw_4
 
-A new Flutter project.
+A Simple Flutter App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project using Statless Widget & Custom Widget : Navigation Bottom Bar & List of Product.
 
 A few resources to get you started if this is your first Flutter project:
 
